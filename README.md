@@ -38,3 +38,13 @@ Screenshot
 
 
 <img width="713" height="366" alt="image" src="https://github.com/user-attachments/assets/cfe03997-a899-4e03-ac2e-b519a7beb686" />
+
+Quiz App Enhancements
+
+    Add a timer for each question
+
+    Shuffle questions randomly
+
+    Add different categories
+
+    Track high scores
